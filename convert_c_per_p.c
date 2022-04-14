@@ -1,6 +1,6 @@
 /*
  * File: convert_c_per_p.c
- * Auth: Okonkwo Godspower
+ * Auth: olawuyi michael
  */
 
 #include "holberton.h"

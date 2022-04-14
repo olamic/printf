@@ -1,5 +1,5 @@
 /**
- * Authors: Okonkwo Godspower
+ * Authors: olawuyi michael
  */
 #include "holberton.h"
 

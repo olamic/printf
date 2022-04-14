@@ -1,6 +1,6 @@
 /*
  * File: convert_strings.c
- * Authors: Okonkwo Godspower
+ * Authors: olawuyi michael
  */
 
 #include "holberton.h"
