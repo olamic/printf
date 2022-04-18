@@ -2,7 +2,6 @@
  * File: convert_numbers.c
  * Authors: olawuyi michael
  */
-
 #include "holberton.h"
 
 unsigned int convert_di(va_list args, buffer_t *output,

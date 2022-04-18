@@ -2,7 +2,6 @@
  * File: convert_hex.c
  * Authors: olawuyi michael
  */
-
 #include "holberton.h"
 
 unsigned int convert_x(va_list args, buffer_t *output,
