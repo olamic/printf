@@ -2,7 +2,6 @@
  * File: convert_base.c
  * Authors: olawuyi michael
  */
-
 #include "holberton.h"
 
 unsigned int convert_sbase(buffer_t *output, long int num, char *base,
